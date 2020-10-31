@@ -1,0 +1,85 @@
+Today's News: 
+"Minimum Government, Maximum Governance": PM's Advice To IAS Probationers 
+------News Link-------- 
+Prime Minister Narendra Modi today advised the probationary civil servants to take decisions in the national interest by following the mantra of 'minimum government and maximum governance'. 
+https://www.ndtv.com/india-news/pm-narendra-modis-advice-to-ias-probationers-is-minimum-government-maximum-governance-2318548 
+########################################### 
+"Which Post Star Campaigner Has?": Kamal Nath On Election Body's Decision 
+------News Link-------- 
+A day after the Election Commission said Congress's Kamal Nath is no longer the star campaigner for his party in Madhya Pradesh - where bypolls are due next week - the ex-chief minister questioned the... 
+https://www.ndtv.com/india-news/madhya-pradesh-bypolls-kamal-nath-on-election-bodys-decision-on-revoking-star-campaigner-status-which-post-star-campaigner-has-2318537 
+########################################### 
+Video: PM Modi Inaugurates Sabarmati Seaplane Service 
+------News Link-------- 
+Prime Minister Narendra Modi today inaugurated the Kevadia-Sabarmati water aerodromes and seaplane service, connecting two key projects in Gujarat. The event was part of the 145th birth anniversary... 
+https://www.ndtv.com/india-news/video-pm-modi-inaugurates-sabarmati-seaplane-service-2318531 
+########################################### 
+Poll Panel Finds "No Violation" In BJP's Promise For Free Covid Vaccine 
+------News Link-------- 
+The BJP's promise of providing free coronavirus vaccine in its manifesto for the Bihar assembly polls is not in violation of the provisions of the model code, the Election Commission has held. 
+https://www.ndtv.com/india-news/election-commission-says-bjps-free-covid-vaccine-promise-not-a-poll-code-violation-explains-why-2318529 
+########################################### 
+"Apologise For?": Shashi Tharoor On BJP's Attack On Pulwama 
+------News Link-------- 
+Congress MP Shashi Tharoor today dismissed BJP demands for an apology from his party for questions posed to the government after the Pulwama terror attack in J&K in February last year 
+https://www.ndtv.com/india-news/apologise-for-shashi-tharoor-on-prakash-javadekars-pulwama-tweet-2318519 
+########################################### 
+-------------------------------------------------------------------------------------------------------
+Python Today: 
+17 days running Google Colab 
+URL: https://medium.com/the-agile-crafter/17-days-running-google-colab-903ae0359919?source=rss------python-5 
+########################################### 
+Find Datasets: Soul of Data Scientist 
+URL: https://medium.com/@jitendraballa2015/find-datasets-soul-of-data-scientist-ebd5334b316a?source=rss------python-5 
+########################################### 
+Inspirit AI Introduction— Using AI to Combat Fake News 
+URL: https://medium.com/@3019-andrew/inspirit-ai-introduction-using-ai-to-combat-fake-news-4de9a1684eef?source=rss------python-5 
+########################################### 
+How to select a subset from the dataset in Pandas 
+URL: https://medium.com/@yuriy-naumov/how-to-select-a-subset-from-the-dataset-in-pandas-f072864a68e5?source=rss------python-5 
+########################################### 
+Learning Python with fun (WIP) 
+URL: https://medium.com/@omcar/learning-python-with-fun-wip-a83aac827b04?source=rss------python-5 
+########################################### 
+-------------------------------------------------------------------------------------------------------
+Programming Today: 
+Tips for Pull Requests 
+URL: https://medium.com/@tigerabrodi/tips-for-pull-requests-2474123da481?source=rss------programming-5 
+########################################### 
+Explain about Apache Flume architecture 
+URL: https://medium.com/@informationit27/explain-about-apache-flume-architecture-5bfc9f19b23e?source=rss------programming-5 
+########################################### 
+Remove Duplicates from an Array with JavaScript 
+URL: https://medium.com/the-agile-crafter/remove-duplicates-from-an-array-with-javascript-75917cad952c?source=rss------programming-5 
+########################################### 
+How I Became A Successful Software Engineer 
+URL: https://medium.com/outco/how-i-became-a-successful-software-engineer-802eef1d92ca?source=rss------programming-5 
+########################################### 
+How To Find The Caret Inside A Contenteditable Element 
+URL: https://medium.com/javascript-in-plain-english/how-to-find-the-caret-inside-a-contenteditable-element-955a5ad9bf81?source=rss------programming-5 
+########################################### 
+-------------------------------------------------------------------------------------------------------
+TOP GAINERS: 
+Stock: BLUEDART, Price: 3,700.55, Change: 455.60, %change: 14.04 % 
+########################################### 
+Stock: CHOLAFIN, Price: 273.10, Change: 23.00, %change: 9.20 % 
+########################################### 
+Stock: ADANIGAS, Price: 220.45, Change: 16.10, %change: 7.88 % 
+########################################### 
+Stock: TVSMOTOR, Price: 455.25, Change: 33.00, %change: 7.82 % 
+########################################### 
+Stock: TATASTEELPP, Price: 63.45, Change: 4.55, %change: 7.72 % 
+########################################### 
+-------------------------------------------------------------------------------------------------------
+TOP LOSERS: 
+Stock: GEPIL, Price: 205.40, Change: -22.80, %change: -9.99 % 
+########################################### 
+Stock: WELCORP, Price: 107.50, Change: -6.30, %change: -5.54 % 
+########################################### 
+Stock: WELSPUNIND, Price: 70.25, Change: -3.65, %change: -4.94 % 
+########################################### 
+Stock: ZENSARTECH, Price: 177.80, Change: -9.20, %change: -4.92 % 
+########################################### 
+Stock: SUZLON, Price: 3.70, Change: -0.19, %change: -4.88 % 
+########################################### 
+-------------------------------------------------------------------------------------------------------
